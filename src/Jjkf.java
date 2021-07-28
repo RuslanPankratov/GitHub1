@@ -4,6 +4,11 @@ public class Jjkf {
         System.out.println();
     }
 }
+class Nerf{
+    public static void main(String[] args) {
+        System.out.println();
+    }
+}
 
 class Mer{
     int a;
